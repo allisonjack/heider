@@ -1,5 +1,5 @@
 #!bin/bash
-STUDYDIR=/Users/aj349/Documents/HEIDER
+STUDYDIR=~/HEIDER
 
 for SUBJ in 9999.01; do
 
