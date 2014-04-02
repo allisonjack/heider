@@ -1,7 +1,7 @@
 #Convert from DICOM to compressed NiFTI
 
 #!bin/bash
-STUDYDIR=/Users/aj349/Documents/HEIDER
+STUDYDIR=~/HEIDER
 
 OUTSUBJ=9999_01
 
